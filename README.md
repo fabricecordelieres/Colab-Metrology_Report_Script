@@ -83,13 +83,14 @@ date	source	obj	Channel_405	Channel_488	Channel_561	Channel_633	405	488	561	633
 
 ## **How to run this script**
 
-1. Upload this script to Google Colab using the dedicated button  
-2. Have all you data ready on the Google Drive
-3. Run all the steps: Run/Run all
+1. Upload this script to Google Colab using the dedicated button
+2. Once in Google Colab, first go to File/Save a copy to my Google Drive
+3. Have all you data ready on the Google Drive
+4. Run all the steps: Run/Run all
    - Step 1 only is interactive: it will require that acces is given by the Google Drive to the script. Simply follow the procedure explained at Step 1.1
    - The metrology root folder should be defined: follow the procedure explained at Step 1.2
    - All subsequent steps are run without any interaction with the user
-4. At the end of the script, two files are generated in the metrology root folder:
+5. At the end of the script, two files are generated in the metrology root folder:
    - An XLSX file containing all the data pulled into a single, multitabs file
    - A PPTX file containing graphs for all microscopes/dates/measurements
 
